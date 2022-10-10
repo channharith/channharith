@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![channharith's GitHub stats](https://github-readme-stats.vercel.app/api?username=channharith)](https://github.com/yourUserName/github-readme-stats)
 <!--
 **channharith/channharith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
