@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channharith&layout=compact)](https://github.com/yourUserName/github-readme-stats)
 
 [![channharith's GitHub stats](https://github-readme-stats.vercel.app/api?username=channharith)](https://github.com/yourUserName/github-readme-stats)
 <!--
